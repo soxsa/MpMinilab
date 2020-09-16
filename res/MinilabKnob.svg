@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.139283mm"
+   height="11.139283mm"
+   viewBox="0 0 11.139283 11.139283"
+   version="1.1"
+   id="svg5477"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="soxsaKnob1.svg">
+  <defs
+     id="defs5471">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect996"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect990"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect986"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect982"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       id="linearGradient935"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b0b7b2;stop-opacity:1;"
+         offset="0"
+         id="stop933" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8032"
+       osb:paint="gradient">
+      <stop
+         id="stop8030"
+         offset="0"
+         style="stop-color:#292c31;stop-opacity:0;" />
+      <stop
+         id="stop8028"
+         offset="1"
+         style="stop-color:#b8bfba;stop-opacity:0.99607843" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8024"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0d0d0d;stop-opacity:1;"
+         offset="0"
+         id="stop8022" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8016"
+       osb:paint="gradient">
+      <stop
+         id="stop8014"
+         offset="0"
+         style="stop-color:#c87137;stop-opacity:0;" />
+      <stop
+         id="stop8012"
+         offset="1"
+         style="stop-color:#afdebf;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8004"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8002" />
+    </linearGradient>
+    <inkscape:path-effect
+       overflow_perspective="false"
+       vertical_mirror="false"
+       horizontal_mirror="false"
+       deform_type="perspective"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect7897"
+       down_right_point="-21.450252,6.408343"
+       down_left_point="-24.29,6.49"
+       up_right_point="-19.56,-3.9785156"
+       up_left_point="-26.09,-3.9785156"
+       effect="perspective-envelope" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-26.09,-3.9785156"
+       up_right_point="-19.56,-3.9785156"
+       down_left_point="-24.29,6.49"
+       down_right_point="-21.450252,6.408343"
+       id="path-effect7883"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3054"
+       id="linearGradient3056"
+       x1="263.30865"
+       y1="105.20351"
+       x2="285.09772"
+       y2="105.20351"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.51122871,0,0,0.51122871,-308.36348,120.4475)" />
+    <linearGradient
+       id="linearGradient3054"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b8bfba;stop-opacity:1;"
+         offset="0"
+         id="stop3052" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3145"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#aeb4af;stop-opacity:1;"
+         offset="0"
+         id="stop3143" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4116"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b1b8b3;stop-opacity:1;"
+         offset="0"
+         id="stop4114" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3048"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0c0c0c;stop-opacity:1;"
+         offset="0"
+         id="stop3046" />
+    </linearGradient>
+    <filter
+       inkscape:label="Plastify"
+       y="-0.2"
+       x="-0.2"
+       width="1.4"
+       height="1.4"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="HSL edges detection bump with a wavy reflective surface effect and variable crumple"
+       style="color-interpolation-filters:sRGB"
+       id="filter1256">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result14"
+         id="feGaussianBlur1236" />
+      <feFlood
+         flood-opacity="1"
+         result="result15"
+         flood-color="rgb(55,200,113)"
+         id="feFlood1238" />
+      <feTurbulence
+         result="result5"
+         numOctaves="1"
+         baseFrequency="0.004 0.008"
+         seed="25"
+         type="fractalNoise"
+         id="feTurbulence1240" />
+      <feDisplacementMap
+         in2="result14"
+         yChannelSelector="B"
+         result="result8"
+         in="result5"
+         xChannelSelector="R"
+         scale="100"
+         id="feDisplacementMap1242" />
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result17"
+         id="feGaussianBlur1244" />
+      <feSpecularLighting
+         in="result8"
+         lighting-color="#ffffff"
+         result="result2"
+         surfaceScale="-10"
+         specularConstant="1"
+         specularExponent="50"
+         id="feSpecularLighting1248">
+        <feDistantLight
+           azimuth="225"
+           elevation="80"
+           id="feDistantLight1246" />
+      </feSpecularLighting>
+      <feBlend
+         mode="screen"
+         result="result9"
+         in2="SourceGraphic"
+         id="feBlend1250" />
+      <feComposite
+         operator="atop"
+         in2="SourceGraphic"
+         result="result11"
+         id="feComposite1252" />
+      <feDisplacementMap
+         result="result16"
+         in="result11"
+         scale="0"
+         xChannelSelector="R"
+         in2="result5"
+         id="feDisplacementMap1254"
+         yChannelSelector="A" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="861"
+     inkscape:window-width="1584"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="31.537156"
+     inkscape:cx="14.278904"
+     inkscape:zoom="4.8713266"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="false"
+     inkscape:snap-page="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata5474">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-168.66092,-162.6133)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       style="opacity:0.993569;fill:url(#linearGradient3056);fill-opacity:1;stroke:#292c31;stroke-width:0.403358;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path3044"
+       cx="-168.18294"
+       cy="174.23056"
+       r="5.3679624"
+       transform="rotate(-90)" />
+    <g
+       transform="matrix(1.44,0,0,1.44,-76.661446,-74.251257)"
+       id="g878" />
+    <circle
+       r="0"
+       cy="168.18704"
+       cx="173.0564"
+       id="circle1280"
+       style="opacity:0.993569;fill:#0c0c0c;fill-opacity:0.222672;stroke:none;stroke-width:0.26116;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="matrix(1,0,0.00698126,0.99997563,0,0)" />
+    <rect
+       y="162.7673"
+       x="173.81192"
+       height="3.507"
+       width="0.73199999"
+       id="rect872"
+       style="fill:#000000;stroke:none;stroke-width:0.258853" />
+  </g>
+</svg>
