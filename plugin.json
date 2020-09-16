@@ -1,0 +1,21 @@
+{
+  "slug": "TiredOmer-preview",
+  "version": "1.0",
+  "license": "GPL-3.0-only",
+  "name": "MpSeries",
+  "brand": "TiredOmer-preview",
+  "author": "TiredOmer",
+  "authorEmail": "contact@TiredOmer.com",
+  "pluginUrl": "https://vcvrack.com/TiredOmer.html",
+  "authorUrl": "www.TiredOmer.com",
+  "manualUrl": "https://vcvrack.com/TiredOmer",
+  "sourceUrl": "https://github.com/VCVRack/TiredOmer",
+  "changelogUrl": "https://github.com/VCVRack/TiredOmer/blob/v1/CHANGELOG.md",
+  "modules": [
+    {
+      "slug": "MpMinilab",
+      "name": "MpMinilab",
+      "tags": ["CONTROLLER"]
+    }
+  ]
+}
